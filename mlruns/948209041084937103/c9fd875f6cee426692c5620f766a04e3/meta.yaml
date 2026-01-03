@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/c9fd875f6cee426692c5620f766a04e3/artifacts
+end_time: 1767443292794
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: c9fd875f6cee426692c5620f766a04e3
+run_name: resilient-ant-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443292574
+status: 3
+tags: []
+user_id: shubhi singh

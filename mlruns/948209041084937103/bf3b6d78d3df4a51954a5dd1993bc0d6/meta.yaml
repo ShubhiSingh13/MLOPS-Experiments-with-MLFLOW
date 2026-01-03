@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/bf3b6d78d3df4a51954a5dd1993bc0d6/artifacts
+end_time: 1767443613462
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: bf3b6d78d3df4a51954a5dd1993bc0d6
+run_name: agreeable-sow-36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443613294
+status: 3
+tags: []
+user_id: shubhi singh

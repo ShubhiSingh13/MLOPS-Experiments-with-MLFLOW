@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/1e16ed01ee734bd3891d3151e187fb86/artifacts
+end_time: 1767443631772
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: 1e16ed01ee734bd3891d3151e187fb86
+run_name: secretive-pig-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443605937
+status: 3
+tags: []
+user_id: shubhi singh

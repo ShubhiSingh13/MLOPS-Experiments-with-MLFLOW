@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/9341c43477bc49ceb996205fc6f94d3c/artifacts
+end_time: 1767443614661
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: 9341c43477bc49ceb996205fc6f94d3c
+run_name: bald-steed-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443614502
+status: 3
+tags: []
+user_id: shubhi singh

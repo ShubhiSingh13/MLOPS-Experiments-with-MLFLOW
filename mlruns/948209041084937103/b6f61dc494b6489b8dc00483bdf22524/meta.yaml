@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/b6f61dc494b6489b8dc00483bdf22524/artifacts
+end_time: 1767443614162
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: b6f61dc494b6489b8dc00483bdf22524
+run_name: painted-grub-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443614011
+status: 3
+tags: []
+user_id: shubhi singh

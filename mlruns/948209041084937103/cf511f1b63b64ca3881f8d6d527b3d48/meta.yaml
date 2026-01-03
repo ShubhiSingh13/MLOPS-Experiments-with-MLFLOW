@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/cf511f1b63b64ca3881f8d6d527b3d48/artifacts
+end_time: 1767443614489
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: cf511f1b63b64ca3881f8d6d527b3d48
+run_name: sneaky-ape-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443614340
+status: 3
+tags: []
+user_id: shubhi singh

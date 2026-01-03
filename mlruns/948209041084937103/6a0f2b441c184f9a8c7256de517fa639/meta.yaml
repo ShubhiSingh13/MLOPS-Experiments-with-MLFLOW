@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/6a0f2b441c184f9a8c7256de517fa639/artifacts
+end_time: 1767443291193
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: 6a0f2b441c184f9a8c7256de517fa639
+run_name: rumbling-mule-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443290960
+status: 3
+tags: []
+user_id: shubhi singh

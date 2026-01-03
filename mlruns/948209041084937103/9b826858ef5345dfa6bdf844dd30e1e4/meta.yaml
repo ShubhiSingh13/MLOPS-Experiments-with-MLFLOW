@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/9b826858ef5345dfa6bdf844dd30e1e4/artifacts
+end_time: 1767443291894
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: 9b826858ef5345dfa6bdf844dd30e1e4
+run_name: bemused-moose-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443291683
+status: 3
+tags: []
+user_id: shubhi singh

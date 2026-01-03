@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/ed31174dd7bd48dc971ad277b7d992e5/artifacts
+end_time: 1767443613994
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: ed31174dd7bd48dc971ad277b7d992e5
+run_name: painted-turtle-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443613839
+status: 3
+tags: []
+user_id: shubhi singh

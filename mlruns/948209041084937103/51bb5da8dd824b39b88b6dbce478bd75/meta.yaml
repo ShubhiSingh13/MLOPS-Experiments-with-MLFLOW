@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/51bb5da8dd824b39b88b6dbce478bd75/artifacts
+end_time: 1767443615364
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: 51bb5da8dd824b39b88b6dbce478bd75
+run_name: bittersweet-crow-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443615199
+status: 3
+tags: []
+user_id: shubhi singh

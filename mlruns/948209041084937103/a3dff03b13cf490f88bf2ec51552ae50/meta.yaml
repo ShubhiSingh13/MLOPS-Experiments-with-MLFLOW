@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/a3dff03b13cf490f88bf2ec51552ae50/artifacts
+end_time: 1767443614325
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: a3dff03b13cf490f88bf2ec51552ae50
+run_name: charming-stoat-179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443614178
+status: 3
+tags: []
+user_id: shubhi singh

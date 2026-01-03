@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/e081a75b940d4b03adf4aec9de4fd522/artifacts
+end_time: 1767443291436
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: e081a75b940d4b03adf4aec9de4fd522
+run_name: skillful-robin-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443291220
+status: 3
+tags: []
+user_id: shubhi singh

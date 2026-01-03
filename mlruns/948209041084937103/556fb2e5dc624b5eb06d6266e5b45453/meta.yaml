@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/556fb2e5dc624b5eb06d6266e5b45453/artifacts
+end_time: 1767443293507
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: 556fb2e5dc624b5eb06d6266e5b45453
+run_name: rogue-mole-451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443293298
+status: 3
+tags: []
+user_id: shubhi singh

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/d5077d5eca6245939ab52cd71538d4c3/artifacts
+end_time: 1767443613823
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: d5077d5eca6245939ab52cd71538d4c3
+run_name: trusting-steed-125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443613654
+status: 3
+tags: []
+user_id: shubhi singh

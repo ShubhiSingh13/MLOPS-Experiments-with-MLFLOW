@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/167d87ec6ef74619b36e3fcc248f01c9/artifacts
+end_time: 1767443614968
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: 167d87ec6ef74619b36e3fcc248f01c9
+run_name: industrious-bear-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443614832
+status: 3
+tags: []
+user_id: shubhi singh

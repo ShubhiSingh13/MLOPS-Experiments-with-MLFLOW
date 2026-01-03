@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shubhi%20singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/948209041084937103/fc0830e39b3543daa731cdd2d29cbb87/artifacts
+end_time: 1767443615178
+entry_point_name: ''
+experiment_id: '948209041084937103'
+lifecycle_stage: active
+run_id: fc0830e39b3543daa731cdd2d29cbb87
+run_name: marvelous-grub-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767443614992
+status: 3
+tags: []
+user_id: shubhi singh
