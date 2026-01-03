@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/shubhi singh/Desktop/mlops/MLOPS-Experiments-with-MLFLOW/mlruns/115408566940838511/34b3c14290b6436c8cd66b53cd5c7508/artifacts
+end_time: 1767439451362
+entry_point_name: ''
+experiment_id: '115408566940838511'
+lifecycle_stage: active
+run_id: 34b3c14290b6436c8cd66b53cd5c7508
+run_name: valuable-robin-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767439440941
+status: 3
+tags: []
+user_id: shubhi singh
